@@ -398,7 +398,7 @@ footer {
   background-color: #121212;
   position: absolute;
   top: 1rem;
-  left: 50%;
+  left: 48%;
   transform: translateY(-50%);
   border-radius: 50%;
 }
