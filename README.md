@@ -2,4 +2,4 @@
 
 ## Шаблон сайта ресторана
 
-Mobile first, анимации при помощи keframes и scrollreveal.js.
+Mobile first, анимации при помощи keyframes и scrollreveal.js.
